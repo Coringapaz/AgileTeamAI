@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AgileTeamAI",
+  "description": "Um simulador de equipe ágil alimentado por IA. Atua como Product Owner e Scrum Master para gerar backlogs, planejar sprints e conduzir reuniões.",
+  "requestFramePermissions": []
+}
